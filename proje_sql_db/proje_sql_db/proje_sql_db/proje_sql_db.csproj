@@ -82,11 +82,6 @@
     <Compile Include="Kategori.Designer.cs">
       <DependentUpon>Kategori.cs</DependentUpon>
     </Compile>
-    <Compile Include="SatisDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>SatisDataSet.xsd</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Anasayfa.resx">
       <DependentUpon>Anasayfa.cs</DependentUpon>
     </EmbeddedResource>
@@ -114,17 +109,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="SatisDataSet.xsc">
-      <DependentUpon>SatisDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="SatisDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>SatisDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="SatisDataSet.xss">
-      <DependentUpon>SatisDataSet.xsd</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
