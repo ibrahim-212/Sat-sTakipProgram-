@@ -1,0 +1,12 @@
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\bin\Debug\proje_sql_db.exe.config
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\bin\Debug\proje_sql_db.exe
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\bin\Debug\proje_sql_db.pdb
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\obj\Debug\proje_sql_db.csprojAssemblyReference.cache
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\obj\Debug\proje_sql_db.Properties.Resources.resources
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\obj\Debug\proje_sql_db.csproj.GenerateResource.cache
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\obj\Debug\proje_sql_db.csproj.CoreCompileInputs.cache
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\obj\Debug\proje_sql_db.exe
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\obj\Debug\proje_sql_db.pdb
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\obj\Debug\proje_sql_db.FrmKategori.resources
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\obj\Debug\proje_sql_db.Anasayfa.resources
+C:\Users\Terminator\source\repos\proje_sql_db\proje_sql_db\obj\Debug\proje_sql_db.Müsteri.resources
